@@ -7,6 +7,10 @@ A scalable and production-ready E-Commerce backend application built using Sprin
 <img width="1380" height="1077" alt="Screenshot 2026-01-21 184430" src="https://github.com/user-attachments/assets/f742b92b-303b-4b68-9909-343a8bc47bfd" />
 
 ---
+
+<img width="1919" height="1077" alt="Screenshot 2026-01-22 234522" src="https://github.com/user-attachments/assets/10441a4c-9bc3-42e8-95e0-2801410d8197" />
+
+---
 ## 📌 Features
 
 
