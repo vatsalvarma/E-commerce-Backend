@@ -43,11 +43,11 @@ This repository handles core e-commerce functionalities such as Customers, Categ
 
 ## 📁 Project Structure
 
-ecommerce-backend/
-│
-├── src/main/java/com/example/ecommerce
-│   ├── controller
-│   │   ├── CategoryController.java
+e-com/demo <br>
+│<br>
+├── src/main/java/com/example/e-com<br>
+│   ├── controller<br>
+│   │   ├── CategoryController.java<br>
 │   │   ├── ProductController.java
 │   │   ├── CustomerController.java
 │   │   └── OrderController.java
