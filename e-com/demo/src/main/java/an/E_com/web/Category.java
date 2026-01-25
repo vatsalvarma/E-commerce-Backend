@@ -26,11 +26,11 @@ public class Category {
     @JsonManagedReference
     private List<Product> products;
 
-    // ✅ REQUIRED by Hibernate (MUST be no-args)
+    // REQUIRED by Hibernate (MUST be no-args)
     public Category() {
     }
 
-    // ✅ Convenience constructor (used by DataSeeder / APIs)
+    // Convenience constructor (used by DataSeeder / APIs)
     public Category(String name, String imageUrl) {
         this.name = name;
         this.imageUrl = imageUrl;
@@ -75,3 +75,4 @@ public class Category {
         this.products = products;
     }
 }
+
